@@ -1,0 +1,30 @@
+[{
+  "container": "container-productos-derecha",
+  "imagen": "tarta.jpg",
+  "nombre_producto": "nombre del producto",
+  "descripcion_producto": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet nostrum nobis id velit exercitationem. Voluptate, labore eius ipsa facere omnis optio nulla, quia consectetur repudiandae officia deserunt inventore. Voluptatem, eaque.",
+  "alt": "Tarta"
+},
+{
+  "container":"container-productos-izquierda",
+    "imagen":"BrazoGitano.jpg",
+    "nombre_producto": "nombre del producto",
+    "descripcion_producto":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet nostrum nobis id velit exercitationem. Voluptate, labore eius ipsa facere omnis optio nulla, quia consectetur repudiandae officia deserunt inventore. Voluptatem, eaque.",
+    "alt":"Brazo Gitano"
+},
+{
+    "container":"container-productos-derecha",
+    "imagen":"cupcakes.jpg",
+    "nombre_producto":"nombre del producto",
+    "descripcion_producto":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet nostrum nobis id velit exercitationem. Voluptate, labore eius ipsa facere omnis optio nulla, quia consectetur repudiandae officia deserunt inventore. Voluptatem, eaque.",
+    "alt":"Cupcakes"
+},
+{
+    "container":"container-productos-izquierda",
+    "imagen":"chocolateBombs.jpg",
+    "nombre_producto":"nombre del producto",
+    "descripcion_producto":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet nostrum nobis id velit exercitationem. Voluptate, labore eius ipsa facere omnis optio nulla, quia consectetur repudiandae officia deserunt inventore. Voluptatem, eaque.",
+    "alt":"ChocoBombs"
+}
+
+]
