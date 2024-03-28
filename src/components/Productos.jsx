@@ -16,7 +16,7 @@ export const Productos = () => {
   return (
     <section className='section-productos'>
       <article>
-        <h3>Lista de productos</h3>
+        <h3>Lista  de productos</h3>
         {
           datos.map((item) => (
             <div className={item.container} key={item.alt}>
