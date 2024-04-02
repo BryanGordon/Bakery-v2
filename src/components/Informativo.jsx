@@ -10,7 +10,6 @@ export const Informativo = () => {
   useEffect(() => {
     const data = Datos
     const shuProd = shuffle(data)
-    // const shuProd2 = reverse(shuProd)
 
     const prod = shuProd.pop()
     const prod2 = reverse(shuProd).pop()
